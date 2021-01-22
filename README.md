@@ -1,6 +1,6 @@
 # Ecommerce Game Store
 
-Deployed at https://dragons-den-store.herokuapp.com/
+Deployed at https://dragonsden-demo.herokuapp.com/
 
 ## Description
 
