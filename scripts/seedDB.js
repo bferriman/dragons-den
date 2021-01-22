@@ -12,7 +12,7 @@ const productSeed = [
     price: 29.99,
     category: "Board Games",
     quantity: 25,
-    image: "https://dragonsden12.s3.amazonaws.com/products/chess2.jpg",
+    image: "assets/images/stock-photos/products/chess2.jpg",
     description:
       "A classic wooden chess set in black and white. Pieces can be stored inside of hinged game board.",
     numberSold: 8,
